@@ -1,0 +1,7718 @@
+fileFormatVersion: 2
+guid: 5ac4f3698edb3734eab4e66c43b1b88c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dude_Standing0
+    21300002: Brick
+    21300004: Dude_1
+    21300006: Dude_2
+    21300008: Dude_3
+    21300010: Dude_4
+    21300012: Dude_Falling0
+    21300014: Dude_5
+    21300016: Dude_6
+    21300018: Dude_7
+    21300020: Dude_8
+    21300022: Dude_9
+    21300024: Dude_10
+    21300026: Dude_11
+    21300028: Dude_12
+    21300030: Dude_13
+    21300032: Dude_14
+    21300034: Dude_WallSliding0
+    21300036: Dude_Jumping0
+    21300038: Dude_Falling1
+    21300040: Dude_Falling3
+    21300042: Dude_Falling4
+    21300044: Dude_Ragdoll_Head
+    21300046: Dude_Ragdoll_Torso
+    21300048: Dude_Ragdoll_Waist
+    21300050: Dude_Ragdoll_ArmL0
+    21300052: Dude_Ragdoll_ArmL1
+    21300054: Dude_Ragdoll_ArmR0
+    21300056: Dude_Ragdoll_ArmR1
+    21300058: Dude_Ragdoll_LegL0
+    21300060: Dude_Ragdoll_LegL1
+    21300062: Dude_Ragdoll_LegR0
+    21300064: Dude_Ragdoll_LegR1
+    21300066: Nudist_Standing0
+    21300068: Nudist_Walking0
+    21300070: Nudist_Walking1
+    21300072: Nudist_Walking2
+    21300074: Nudist_Walking3
+    21300076: Nudist_Walking4
+    21300078: Nudist_Walking5
+    21300080: Nudist_Walking6
+    21300082: Nudist_Walking7
+    21300084: Nudist_Walking8
+    21300086: Nudist_Walking9
+    21300088: Nudist_Walking10
+    21300090: Nudist_Walking11
+    21300092: Nudist_Walking12
+    21300094: Nudist_Walking13
+    21300096: Nudist_WallSliding0
+    21300098: Nudist_Jumping0
+    21300100: Nudist_Falling0
+    21300102: Nudist_Falling1
+    21300104: Nudist_Falling2
+    21300106: Nudist_Falling3
+    21300108: Nudist_Ragdoll_Head
+    21300110: Nudist_Ragdoll_Torso
+    21300112: Nudist_Ragdoll_Waist
+    21300114: Nudist_Ragdoll_ArmL0
+    21300116: Nudist_Ragdoll_ArmL1
+    21300118: Nudist_Ragdoll_ArmR0
+    21300120: Nudist_Ragdoll_ArmR1
+    21300122: Nudist_Ragdoll_LegL0
+    21300124: Nudist_Ragdoll_LegL1
+    21300126: Nudist_Ragdoll_LegR0
+    21300128: Nudist_Ragdoll_LegR1
+    21300130: Nudist_Ragdoll_Dong0
+    21300132: Nudist_Ragdoll_Dong1
+    21300134: Skeleton_Standing0
+    21300136: Skeleton_Walking0
+    21300138: Skeleton_Walking1
+    21300140: Skeleton_Walking2
+    21300142: Skeleton_Walking3
+    21300144: Skeleton_Walking4
+    21300146: Skeleton_Walking5
+    21300148: Skeleton_Walking6
+    21300150: Skeleton_Walking7
+    21300152: Skeleton_Walking8
+    21300154: Skeleton_Walking9
+    21300156: Skeleton_Walking10
+    21300158: Skeleton_Walking11
+    21300160: Skeleton_Walking12
+    21300162: Skeleton_Walking13
+    21300164: Skeleton_WallSliding0
+    21300166: Skeleton_Jumping0
+    21300168: Skeleton_Falling0
+    21300170: Skeleton_Falling1
+    21300172: Skeleton_Falling2
+    21300174: Skeleton_Falling3
+    21300176: Skeleton_Ragdoll_Head
+    21300178: Skeleton_Ragdoll_Torso
+    21300180: Skeleton_Ragdoll_Waist
+    21300182: Skeleton_Ragdoll_ArmL0
+    21300184: Skeleton_Ragdoll_ArmL1
+    21300186: Skeleton_Ragdoll_ArmR0
+    21300188: Skeleton_Ragdoll_ArmR1
+    21300190: Skeleton_Ragdoll_LegL0
+    21300192: Skeleton_Ragdoll_LegL1
+    21300194: Skeleton_Ragdoll_LegR0
+    21300196: Skeleton_Ragdoll_LegR1
+    21300198: Goblin_Standing0
+    21300200: Goblin_Walking0
+    21300202: Goblin_Walking1
+    21300204: Goblin_Walking2
+    21300206: Goblin_Walking3
+    21300208: Goblin_Walking4
+    21300210: Goblin_Walking5
+    21300212: Goblin_Walking6
+    21300214: Goblin_Walking7
+    21300216: Goblin_Walking8
+    21300218: Goblin_Walking9
+    21300220: Goblin_Walking10
+    21300222: Goblin_Walking11
+    21300224: Goblin_Walking12
+    21300226: Goblin_Walking13
+    21300228: Goblin_WallSliding0
+    21300230: Goblin_Jumping0
+    21300232: Goblin_Falling0
+    21300234: Goblin_Falling1
+    21300236: Goblin_Falling2
+    21300238: Goblin_Falling3
+    21300240: Goblin_Ragdoll_Head
+    21300242: Goblin_Ragdoll_Torso
+    21300244: Goblin_Ragdoll_Waist
+    21300246: Goblin_Ragdoll_ArmL0
+    21300248: Goblin_Ragdoll_ArmL1
+    21300250: Goblin_Ragdoll_ArmR0
+    21300252: Goblin_Ragdoll_ArmR1
+    21300254: Goblin_Ragdoll_LegL0
+    21300256: Goblin_Ragdoll_LegL1
+    21300258: Goblin_Ragdoll_LegR0
+    21300260: Goblin_Ragdoll_LegR1
+    21300262: Giraffe_Standing0
+    21300264: Giraffe_Walking0
+    21300266: Giraffe_Walking1
+    21300268: Giraffe_Walking2
+    21300270: Giraffe_Walking3
+    21300272: Giraffe_Walking4
+    21300274: Giraffe_Walking5
+    21300276: Giraffe_Walking6
+    21300278: Giraffe_Walking7
+    21300280: Giraffe_Walking8
+    21300282: Giraffe_Walking9
+    21300284: Giraffe_Walking10
+    21300286: Giraffe_Walking11
+    21300288: Giraffe_Walking12
+    21300290: Giraffe_Walking13
+    21300292: Giraffe_WallSliding0
+    21300294: Giraffe_Jumping0
+    21300296: Giraffe_Falling0
+    21300298: Giraffe_Falling1
+    21300300: Giraffe_Falling2
+    21300302: Giraffe_Falling3
+    21300304: Giraffe_Ragdoll_Head
+    21300306: Giraffe_Ragdoll_Torso
+    21300308: Giraffe_Ragdoll_Waist
+    21300310: Giraffe_Ragdoll_ArmL0
+    21300312: Giraffe_Ragdoll_ArmL1
+    21300314: Giraffe_Ragdoll_ArmR0
+    21300316: Giraffe_Ragdoll_ArmR1
+    21300318: Giraffe_Ragdoll_LegL0
+    21300320: Giraffe_Ragdoll_LegL1
+    21300322: Giraffe_Ragdoll_LegR0
+    21300324: Giraffe_Ragdoll_LegR1
+    21300326: Macaw_Standing0
+    21300328: Macaw_Walking0
+    21300330: Macaw_Walking1
+    21300332: Macaw_Walking2
+    21300334: Macaw_Walking3
+    21300336: Macaw_Walking4
+    21300338: Macaw_Walking5
+    21300340: Macaw_Walking6
+    21300342: Macaw_Walking7
+    21300344: Macaw_Walking8
+    21300346: Macaw_Walking9
+    21300348: Macaw_Walking10
+    21300350: Macaw_Walking11
+    21300352: Macaw_Walking12
+    21300354: Macaw_Walking13
+    21300356: Macaw_WallSliding0
+    21300358: Macaw_Jumping0
+    21300360: Macaw_Falling0
+    21300362: Macaw_Falling1
+    21300364: Macaw_Falling2
+    21300366: Macaw_Falling3
+    21300368: Macaw_Ragdoll_Head
+    21300370: Macaw_Ragdoll_Torso
+    21300372: Macaw_Ragdoll_Waist
+    21300374: Macaw_Ragdoll_ArmL0
+    21300376: Macaw_Ragdoll_ArmL1
+    21300378: Macaw_Ragdoll_ArmR0
+    21300380: Macaw_Ragdoll_ArmR1
+    21300382: Macaw_Ragdoll_LegL0
+    21300384: Macaw_Ragdoll_LegL1
+    21300386: Macaw_Ragdoll_LegR0
+    21300388: Macaw_Ragdoll_LegR1
+    21300390: Monkey_Standing0
+    21300392: Monkey_Walking0
+    21300394: Monkey_Walking1
+    21300396: Monkey_Walking2
+    21300398: Monkey_Walking3
+    21300400: Monkey_Walking4
+    21300402: Monkey_Walking5
+    21300404: Monkey_Walking6
+    21300406: Monkey_Walking7
+    21300408: Monkey_Walking8
+    21300410: Monkey_Walking9
+    21300412: Monkey_Walking10
+    21300414: Monkey_Walking11
+    21300416: Monkey_Walking12
+    21300418: Monkey_Walking13
+    21300420: Monkey_WallSliding0
+    21300422: Monkey_Jumping0
+    21300424: Monkey_Falling0
+    21300426: Monkey_Falling1
+    21300428: Monkey_Falling2
+    21300430: Monkey_Falling3
+    21300432: Monkey_Ragdoll_Head
+    21300434: Monkey_Ragdoll_Torso
+    21300436: Monkey_Ragdoll_Waist
+    21300438: Monkey_Ragdoll_ArmL0
+    21300440: Monkey_Ragdoll_ArmL1
+    21300442: Monkey_Ragdoll_ArmR0
+    21300444: Monkey_Ragdoll_ArmR1
+    21300446: Monkey_Ragdoll_LegL0
+    21300448: Monkey_Ragdoll_LegL1
+    21300450: Monkey_Ragdoll_LegR0
+    21300452: Monkey_Ragdoll_LegR1
+    21300454: Monkey_Ragdoll_Tail0
+    21300456: Monkey_Ragdoll_Tail1
+    21300458: Monkey_Ragdoll_Tail2
+    21300460: Yeti_Standing0
+    21300462: Yeti_Walking0
+    21300464: Yeti_Walking1
+    21300466: Yeti_Walking2
+    21300468: Yeti_Walking3
+    21300470: Yeti_Walking4
+    21300472: Yeti_Walking5
+    21300474: Yeti_Walking6
+    21300476: Yeti_Walking7
+    21300478: Yeti_Walking8
+    21300480: Yeti_Walking9
+    21300482: Yeti_Walking10
+    21300484: Yeti_Walking11
+    21300486: Yeti_Walking12
+    21300488: Yeti_Walking13
+    21300490: Yeti_WallSliding0
+    21300492: Yeti_Jumping0
+    21300494: Yeti_Falling0
+    21300496: Yeti_Falling1
+    21300498: Yeti_Falling2
+    21300500: Yeti_Falling3
+    21300502: Yeti_Ragdoll_Head
+    21300504: Yeti_Ragdoll_Torso
+    21300506: Yeti_Ragdoll_Waist
+    21300508: Yeti_Ragdoll_ArmL0
+    21300510: Yeti_Ragdoll_ArmL1
+    21300512: Yeti_Ragdoll_ArmR0
+    21300514: Yeti_Ragdoll_ArmR1
+    21300516: Yeti_Ragdoll_LegL0
+    21300518: Yeti_Ragdoll_LegL1
+    21300520: Yeti_Ragdoll_LegR0
+    21300522: Yeti_Ragdoll_LegR1
+    21300524: Ninja_Standing0
+    21300526: Ninja_Walking0
+    21300528: Ninja_Walking1
+    21300530: Ninja_Walking2
+    21300532: Ninja_Walking3
+    21300534: Ninja_Walking4
+    21300536: Ninja_Walking5
+    21300538: Ninja_Walking6
+    21300540: Ninja_Walking7
+    21300542: Ninja_Walking8
+    21300544: Ninja_Walking9
+    21300546: Ninja_Walking10
+    21300548: Ninja_Walking11
+    21300550: Ninja_Walking12
+    21300552: Ninja_Walking13
+    21300554: Ninja_WallSliding0
+    21300556: Ninja_Jumping0
+    21300558: Ninja_Falling0
+    21300560: Ninja_Falling1
+    21300562: Ninja_Falling2
+    21300564: Ninja_Falling3
+    21300566: Ninja_Ragdoll_Head
+    21300568: Ninja_Ragdoll_Torso
+    21300570: Ninja_Ragdoll_Waist
+    21300572: Ninja_Ragdoll_ArmL0
+    21300574: Ninja_Ragdoll_ArmL1
+    21300576: Ninja_Ragdoll_ArmR0
+    21300578: Ninja_Ragdoll_ArmR1
+    21300580: Ninja_Ragdoll_LegL0
+    21300582: Ninja_Ragdoll_LegL1
+    21300584: CharacterSpreadsheet_0
+    21300586: Ninja_Ragdoll_LegR0
+    21300588: Ninja_Ragdoll_LegR1
+    21300590: Wizard_Standing0
+    21300592: Wizard_Walking0
+    21300594: Wizard_Walking1
+    21300596: Wizard_Walking2
+    21300598: Wizard_Walking3
+    21300600: Wizard_Walking4
+    21300602: Wizard_Walking5
+    21300604: Wizard_Walking6
+    21300606: Wizard_Walking7
+    21300608: Wizard_Walking8
+    21300610: Wizard_Walking9
+    21300612: Wizard_Walking10
+    21300614: Wizard_Walking11
+    21300616: Wizard_Walking12
+    21300618: Wizard_Walking13
+    21300620: Wizard_WallSliding0
+    21300622: Wizard_Jumping0
+    21300624: Wizard_Falling0
+    21300626: Wizard_Falling1
+    21300628: Wizard_Falling2
+    21300630: Wizard_Falling3
+    21300632: Wizard_Ragdoll_Head
+    21300634: Wizard_Ragdoll_Torso
+    21300636: Wizard_Ragdoll_Waist
+    21300638: Wizard_Ragdoll_ArmL0
+    21300640: Wizard_Ragdoll_ArmL1
+    21300642: Wizard_Ragdoll_ArmR0
+    21300644: Wizard_Ragdoll_ArmR1
+    21300646: Wizard_Ragdoll_LegL0
+    21300648: Wizard_Ragdoll_LegL1
+    21300650: Wizard_Ragdoll_LegR0
+    21300652: Wizard_Ragdoll_LegR1
+    21300654: Wizard_Ragdoll_Hat
+    21300656: Wizard_Ragdoll_Beard0
+    21300658: Wizard_Ragdoll_Beard1
+    21300660: Ninja_Ragdoll_Headband
+    21300662: Astronaut_Standing0
+    21300664: Astronaut_Walking0
+    21300666: Astronaut_Walking1
+    21300668: Astronaut_Walking2
+    21300670: Astronaut_Walking3
+    21300672: Astronaut_Walking4
+    21300674: Astronaut_Walking5
+    21300676: Astronaut_Walking6
+    21300678: Astronaut_Walking7
+    21300680: Astronaut_Walking8
+    21300682: Astronaut_Walking9
+    21300684: Astronaut_Walking10
+    21300686: Astronaut_Walking11
+    21300688: Astronaut_Walking12
+    21300690: Astronaut_Walking13
+    21300692: Astronaut_WallSliding0
+    21300694: Astronaut_Jumping0
+    21300696: Astronaut_Falling0
+    21300698: Astronaut_Falling1
+    21300700: Astronaut_Falling2
+    21300702: Astronaut_Falling3
+    21300704: Astronaut_Ragdoll_Head
+    21300706: Astronaut_Ragdoll_Torso
+    21300708: Astronaut_Ragdoll_Waist
+    21300710: Astronaut_Ragdoll_ArmL0
+    21300712: Astronaut_Ragdoll_ArmL1
+    21300714: Astronaut_Ragdoll_ArmR0
+    21300716: Astronaut_Ragdoll_ArmR1
+    21300718: Astronaut_Ragdoll_LegL0
+    21300720: Astronaut_Ragdoll_LegL1
+    21300722: Astronaut_Ragdoll_LegR0
+    21300724: Astronaut_Ragdoll_LegR1
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dude_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446939f9533f04d4d8757f59f3fd6a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 496
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412a75670c4d5344bb7cab6b34ba208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b354697e2ede04480c3396ea97166a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b019901ae6ebd140ab1818fcc7434d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a37af9579adb4ab24998b6b247006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55eba6d028a254baebe941a74888c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a8f7dee74fc34cbcc393a56d5b57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ddb1d20a8bf54f9cc4506353bf8fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e44fe672aae0740a807f156561b2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6cb06b816e8a41a85b6f3e58fbb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a22a85ffd90f49a386f1007fbb27c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882991c09a9344746aca9d5d3fa232d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12926a3bfbee7e74495cd389764d3cd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27a47c2bf5a234d92dfc1ae164c510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3dfe39baaf77241bfad37b38b89bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a2ae8e7833d541be9d5d41c774508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d5b94693c3534ba88fc2027b78c91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4803476fc70bf864e98fd1c0e4cdb2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f1358521975d4ba2d50fe3a34b5d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9777d72e79ba05a4b98efcbbd5c695a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Falling3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85fbb16b90309409cc1fff15af6292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Falling4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 479
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a637b7ced33ea4fabfd59c0928c167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 499
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55004fe04ca97ae4fb3b19fc66f9c2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 490
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112c0561abae8647917276c082c0bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 483
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7aebcc30d698e48b14e84b0c920068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 500
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c0c709c06a304cacf2a52e0f28b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 495
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99950a78475374a4a9981d83ffe4691e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 500
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb92d116e36d464d83d77ea68de6ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 495
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cbf410179bf794c9b201baf61c3ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 488
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc03d7d6ca236b4594b5db7c1ee0f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 483
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f8b034984b7745a0fa68c579e1f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 488
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b222b653a597d44485a16d81e1de890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 483
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22008cecd97ab14283a143fa6a36809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d107400a64f34dbb56b1023b343ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8851616ed3e1e94ab0d57bc2dd72f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034d19b08bdf05f48b901c48ded5d3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b232a93b341a4a80543fb7950d130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce686c3c6c3226438907c5a90ff6502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe6d8abbd940f4886cc82901914575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439dd14daddbcbd448ed14268293a04d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806c41b357062a48acb9b98c11a1a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d9e9638e575945bfd406a33738c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d6f93b1e1003145841ce365d99cee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f82750e4ab97b47850c1bf3a36f10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04905b65ef3c43409c8e65ce97dd33d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c171f95ace26e04fa090d81232e97a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409bc6cef8b1fa409f2c60a137cbdad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145215f6f87aea44a8e8796f7e6fdba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db2e9489b36b03478dba819adbd16f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60e711d8199d246850e25b2cda0703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec20af53acab74597ebebe57c4733a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42d4070c4cf0448962ebc4da2af351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485cd631c868f2443ab909bebd3b85ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91857df2d5b8a5e4fa24e59d8c7cfcdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 470
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5914da8bbf899644999a19e544de08fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 461
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301d9333c57b5654397713c73c10baaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 454
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b18c59e93c587948a1cbead2eae3bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 471
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03ab40a4df7d541880976e0dcb3ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 466
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36723d3e88ca4684f986064e13902039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 471
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f711b9cfb67346b061179ec63bb65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 466
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c08cd08dd9794094c20cac57a1e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 459
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3561b9fe069c4b8be079b41d0d356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 454
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb49c08b68edf94aa78cf9baff6ed87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 459
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d223be7b26eb88c4cbc65bbc0292c6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 454
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0599c48b0cf9a47bdafc5e770c97e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_Dong0
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 473
+        width: 1
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7366a6b1dbaf94bb2f1ee322cc70e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nudist_Ragdoll_Dong1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 469
+        width: 1
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584e4d2299de77e4f8f6f93ed0aae2fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577fa3b3f1df8ad42b3a7a5b546c1df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee93183cdca0e408ae07ca1098dedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a78c6b043f338489b632b4afcf9898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1baed86aa26737458fc4a35b2beff52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd95e1c23d7714b894d620ef30951f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060ffe15dd3b3148b6df134fc79cb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c314f7473cf7f343a7a1cbb2f055f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50815dba360a0314b9900c3351511ca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2724fe21a70d264ea2d497ee6453325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e537197cf223a39459b220472147cc40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b902a2f12981747813d14f095dddfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b71dfa5981d9d64896502af8e634c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b0bc9edc55214b9c4f19ced934a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c49e44f5a28dc4a8517693684ba180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf32b2d3e27534ab231b044fe3646e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce9089d5ff1c34c9087f4919a612ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4249876f0fba0d45b90976f9de48739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522064691175b9349be592e17ae1bd2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cf15e1ac196f4c87ce6ccd71fe44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6968065f6c155d40993015c187ca3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15db13c70643cf647a29576c9302b155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 441
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6bbda9cbbc004f99480180851b3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 432
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b97a7566241848b0eae1febfa17ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 425
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8091601a089bec0489c894d17c370511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 442
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79d3901bd0ca74b88b9d4edef399e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 437
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba4767992c41b4a8bf151bcab7ec56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 442
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88d8261e1f1de428097f49e481185b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 437
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55735420ff2e6845a0efa9a84cae8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 430
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823973e39744569408833640cb4aa63d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 425
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb8ca63e066d4c48a9462dfdbaf90ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 430
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4960573d55c1f045830fd8f4556d50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 425
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b93903c63f9b4a4dbf0f2567b2a8d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b1af5762e00e4b8cfba01de5d0bce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be06e8eb05dea498fb9b60e2cb737f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8480bf232c25db40b886ee0ee74b00d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776e59acf1581c4594ff29358e240ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ff061cfcb56d4b94fee5f232f2806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec8396940d8614f9da82f12a6fefe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2a041015f4f64fbb5bc520408b6e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea53ba2834c1894db717ed3c95b8f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da2a99278a17445b8b2dd14ec76ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f3cb29dad0bc4cabd941eaba6bea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf59e4dda2d36be42b2a7b796c9f495f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052dcb2e40b13e49860c8c548bd230f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be6c53375367043871b4aef4f695e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb7cf6ca83f914995ec04d77666df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4bf285b957514da91cd026d506aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee18863fc4a608d45a26c93646be0c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c09ed7c944b074195dd8e975ca0645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f765a1464f99819498e8b0271a6d3572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087b77c0ae759048801121026dee7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454113ff2438270448b7efa39316a1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 392
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763de4c2d5469844929518314861805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 412
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cdc15d0a9f9de4eae417887df2e066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 402
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8998ed73f73f39747bf3a3d1c2cfaf84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 396
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7fae4162f651e478670feb7672f1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 413
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067512f5ee06a214e84fa1fe6d6c6363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 408
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708fb44fe59cd842acb7773ff3cc1b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 413
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a269eb7d346f45b4517bfd55c4e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 408
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff062d504c699649950e46b7b8fe8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 401
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597a0f296d067443b26d3d59746cce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 396
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc60aaee97f0024459c6bb36a80cef58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 401
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e8c184157e904fb9017ce055d8093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 396
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec66944754b81948a68cc82c73cadfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b50f772fe1daf44b942a463c935508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616ef9f1ce9bc3b45b509fd3dbf33222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb440734d600ce429c29066dd80b120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942729e7b0ee2147b271aef68a25c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d3ac884bad56498714be278e26633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd199b004dc912944b930cc962efbe55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d161c6c8a1a047b8c09ebcef51ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8015e3407cfdcf4da4fbc4d8243fb8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e188c9c1355a004a85a4701c7a9794a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccff6d45ab1c334dafd60587e00f6f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab908a911deacd4997f9025489e2323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d140f6f2a00e22e46b46b81f5152ede6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f81a50fbb0c5047b3e9aab562e2194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0665db0a3b106245b519ad1517a96dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2bdcfa9ff41a146abe42612b31015a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccdc007f9e3c340bd5b2b97b07d60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33932cf4b120594ca0cbb7f89d6c22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760cd9fdd298b2c428b21c9448bdcc24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b041710b3e39184395adceed92c8b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824bb2fdc4aae794290cf3d7ec6bb1d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 363
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078d2bc237d2014cb2cb30b87ad0a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 383
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ac23752348314e91c7b637df1f42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 374
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39838a0567bbaf34fb8856630ad45f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 367
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7741195593ba8b449e17405380b956f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 384
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460294d8336f284f9e26fb05a1c3fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 379
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51cf33224ee589419dbe63dcb9ed46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 384
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ece46e626d804b9954a4fa56eaad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 379
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101772946775f8d49a7fcdfa001d907b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 372
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a89d76def8674e8fe01d19f02966e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 367
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272462513d5ab0347a12cf741dd0da5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 372
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3bea615b0b91a42a94e8f8616ca019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giraffe_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 367
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb55e82f8d81b4dacaaed49730b2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae9e72c0725c94eb58ce4025ab08f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0dcb41c1712374489163322e240ee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69215f45dfb75ec439f38356d37698a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba691ba5d641b664b894e2d8d0742a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a597a9f2ca7144bb66d8865e95cb25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12491f4a40799114bbc21d83534aeea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b07bf9da0272f4891812b435621464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bfd17fbdcfed84d8be6bdf1bcc4f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc4341b824c2034683ef4619f82e7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883681bab52e1914a94a4b0a51f6f938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b93bba0bb7de4fadbde267ebc6d15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527dcd2b6c51845408df810ce5407b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41416d8674d9e664f9bd106abf04940d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3013a0d029c7449541fc81035c6f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe591cac4d5031439df1fe19f7c7110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b95ceeb7911a4dbdbabbae3cab9b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb3fa0e0e21ef44944de554dfd0205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556462b44371644387522f16b436fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4d0ae68f57c14ca9c2313b6c9c11f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35517c85fb2c1434e81de6b479a8208e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59216d9f610bc874fb4f46bb9c35d99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 354
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e08991d174244d9dcdd8af6b2ad15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 345
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60b0c201841ce48aa66eb5cf5dff0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 338
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d8a1834fce3d40a350f027db542d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 355
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c224f4f5c2c24489689dfdcdc955c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 350
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9f208524e9684483ff23da308b269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 355
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f34b6fbcef49d458209ad74a84c804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 350
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa380df71460a440a1b4772917a0c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 343
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f29d5b6d755524192224352f0b156c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 338
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3461e090845574dac7867225a2369a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 343
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a892f7e1836f743980b5fd1297e3a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macaw_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 338
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58d982dd7e3cc42bf28f4ba32b73d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b42a8ed0693a4691de353970d2f1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7300818435d34985c1dd46cd35be1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be57b0558aac4047913777871ea0652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3f67fcc886444ab5dd35f42d55ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d349c5f79d7314faf17889acbc895a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f0038e30eeee41be65a65cf6db165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a4f453e4a8c8a4e9077d5f39dc4749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a919b875daf8ec43903ef6b132ad0df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8d37a1e80c824c828edd80b093911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86dfd1e2187744e8cefb7d1b1bd27c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346339f62e9dbc249a746c87e135ce2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b557a294d4a844d82273d29a4fe62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe480d1eebcc94c4680849a749975871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775797d49462b854a9633991bd18a636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8379d3eb1b381247a5bc1bb199c72ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003071970f745e545a2bfb77dc888874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2e844a34eccb4583c0dc46c126574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e72ba7dfb0db4184afbe3cf2bfb25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3e8c4c286bca498cf2bf472fa820a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724f262865d5ff469c1cd5bf729166c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 305
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff1c765daf46b4d9f29acc4ce50f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 325
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea60b2f9f043f4f95db3266ab9d883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 316
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438923868f104aa469dbdb10a07287b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 309
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a377d590a21d4fb64c4de3af3f6c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 326
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e2dbb15d23604dacd6402ef03aa66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 321
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64136a4ef19bb394288bcfda8468c76d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 326
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b44dda2a475a347839cd9fd0d59d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 321
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b5765a661ee145960b2562a7ecbec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 314
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f509a5b685f57c24d982e097fb7ccbb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 309
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f132863e66c339445a559a80c74dd7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 314
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb63ff0f606314e81cb15e19e54a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 309
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c7b657862a6b4db9ed5e1e842e3b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Tail0
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 327
+        width: 1
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538e1039176df54a833626970536479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Tail1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 322
+        width: 1
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea6f297e2718144a9653c519f5c6f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Ragdoll_Tail2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 317
+        width: 1
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c5228b8233a34d9a1f6319aee66bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99f2cadf2b65749915e2c0534e976b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec502f7062c3e49b6fece958c1a858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e51c06fee1d4478096931c03a673d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cafae4a5c84e94daa0b6c951a1dda7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d34e64936d34428526de457a0e728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9faa2b1a59fc845a1257904ee15644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614335c113f0dcb4da77033f0a1f45f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544325a44beaf940941808df3a94b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9eb92809d421d419623f30316e15f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b01f205317412468a064dd08676550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb57ec115ba5194faf4a8d638bf3257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014fc48fad5ac7848ba864355b1b5955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29d08fa0deb9954a8d2d1381667813c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa1d446f4bd5645b933551054e7523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd08a96db1e19645a690388e67f9cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcf96add2c24d459a17f5a0686f691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552659bbfe911aa48921072a0d5949ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0eb042f100cc4983882ce2d6329e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca09db8f828c32e4c9bb54892f905567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d28726f81f1fe24084dce4a19225359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac5136ade43944f980958189db4696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 296
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c412f2315d63949bb91f5d8420d4ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 287
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e75b74636ff814ea2a549bd0570f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 280
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c172fee89d81914cb5f6c140da5a401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 297
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76fd5cbbba871243bc5034758b2ba0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 292
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90244ae3d83d96043a369b8b6cccfeb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 297
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627b28218f47d92448f99ba27e635e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 292
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273cf7e3018932d4b9d622fb87924688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 285
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d779587e2b09c84caf613564932f75c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 280
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1363e9c90020343b5856537fc7afd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 285
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5d7c40f7108045ad16273f92a6f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 280
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97db65a6d936af4d929c42ef0a3773c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1b133ab6d102f40980f1015ca904d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea102b256772ebc42bf046bf95575442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ad1770169b9b418758fc67d999cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613505f6beded614fbd78b740398beff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67ea52aec37754ea3767f21883dbbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2196eb2b0262fe348bae4857e3afa61c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc7346c4bf5824a829e9a1f2a94bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c48b9056f96d94181b216d028e6102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d288fcacd1d454ea4dfce6268d514d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a3996d4b974c429ef9a3ca218b718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ff4f8a3c9b26478cf706db1dece06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5570f354153945a15984f68beef19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d03c5413d7aa4dbd6831614ee9c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb7f447d932264fbf4c91e747de240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346920ffd2b79664091034f553cc453a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4240797c3efc3194ea978bc3865ec6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e5646ba66f54e42a1086b3610c07e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79617070efa28094587271824d90c060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b409a15aea18740ae9a47f18b0a95d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8cd06011c579144a661b102b503dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe6673d305e8b4f9a24007d4935a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 267
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d55d6a9168f146bf509e4a3295b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 258
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192455e5c41af8542ba2ec9c31f44159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 251
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f496f0dcce294e8ad7ce6eb9b747d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 268
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d2958f13250f47a9daada09f79c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 263
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ad50b3e2dd42644820ae4b321cf58d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c586b14403b64992eefa44889ded0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 263
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5678b616a168f4d972b780ced5910b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c552da31c2ba7844a40f4e8002c793b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 251
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5a9f31d9cde64c9c92bc85630b671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSpreadsheet_0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 285
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d365cde823af44bfc8f8721d1f240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 256
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004e985004c74544bfebbdf71bc88ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 251
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837479c1bf00d34091e9366f056a0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8f285639b4fa4f964520c7959cba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15416ff367b184bb1f4777318513a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd528757da4ebf4bacb8e645a65e905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30136ff505b464243aa470df8a6854db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0f2224eaa931a4fbe9c88425789b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4275400d396c829429f65854cf5a9331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421599a555ed5d41b8bdb1ea781bbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc36c7aa9769847a14daf70fa779ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efd87b661857149a1075feb5f6b6d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f72621573c18c48842005931b51cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f17d8335595f934899ccba556c74e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ba0c61c3bad446878468cf2a25848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af2f5f82ccaf484da249163db653b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8034fcf6eccb4abb64017d403868e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b2decdb301dc14ca696f67d11a683d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b05980ac0a8442bfe6d6b222cb110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10833a02280aa8a4e90e4644e1e6cb5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7f158e82827346be6033e695450d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274ecf74c7386e42b44692ec5c9734e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60083e3a2c9366147b1fa6198f899448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 218
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f1836e782a2542942f9113af62ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 238
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.3, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805d75f6980d42b4e93b69f0311e0f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 229
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d21df5a8497c240b08548252357245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 222
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc378b3218f1df24c8e9aac79b30f8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 239
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc3d85b2f467e4892f5320a6bc5a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 234
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c236194f5a428547a3354320e742118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 239
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdca378aa87aa3439d784f40eeec888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 234
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1298aad050a1ad48978af32b5828ddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 227
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f940448c93c02488d627097b04dde9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 222
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7faf8551b82254b9b2c1cc246ce0a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 227
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72aa9f458ed824885725c1e1a0e0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 222
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14adbfdb6152b847b41e07299954309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Hat
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 239
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af688d2f7caa6498a2048abffade81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Beard0
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 232
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a7257d23a06341a84e3f6355239df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Ragdoll_Beard1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 224
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb956868ecf5a084d91d0a25189757f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Ragdoll_Headband
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 269
+        width: 2
+        height: 3
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a71d1f6513844bbe55ac34cf0869d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Standing0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84525ccf48e42140853a726b9b2de16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ed5c2ad1578e4aa9049ea84d59294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152168786c994640a86e18b876fcd25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f75cf3c13dfd428943b40f0fe4502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f7cfd4d27a904cb2fef54c8d19645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f92be7790c91747ada282a36a20ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dc1f400a25b9545a8b72ad28e9acb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46b69b141e1b047bd8480c084cc888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a59b9b2d30684cbf19e8c56d3863e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ecf46521423da45a0d04229c223e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c0f4163d78004592aa9c4445fd2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd3202877437944b63d02db1a99645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34893671b804941a803b8e8e707e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e44cd023964c418c37c6996a9d06e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Walking13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5ccee34297144fb241c76108a1eb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_WallSliding0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd3f08aff584648ba1bb3c22cb0ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Jumping0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225829bcb81c46840922b4150273fb51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Falling0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef2096a6e7230479fcaf18bbe12759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Falling1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c470cb8f8c736408279ebf6db2f076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Falling2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef982e51bdc2f438af902a898f84ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Falling3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 189
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1b4e1289b4094ab5067bb06283e10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_Head
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 209
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689faa312036b854794673e0e80093df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_Torso
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 200
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b2f8e8d4b7244b965fa63aeb59dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_Waist
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 193
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556691199f17144bb67b9342d72ccd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_ArmL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 210
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f7c8a377bc3e4ca5f1c9b3dd4a4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_ArmL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 205
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f66a4e94434ce43b23529d1268aed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_ArmR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 210
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b82bf067849c974bada785317845f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_ArmR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 205
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3de68fb9d689849aafad8e8cf5c3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_LegL0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 198
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecba0d076de964409b0405d36f797fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_LegL1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 193
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d9fcfaaf3c52b4fafa0dd7ccb69efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_LegR0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 198
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2b86a50c00c449959a6b5f4595d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut_Ragdoll_LegR1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 193
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671dbfea92bf65e40bed643fa5e45ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3187dd45255777f46b7c5f637dd67c0a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
